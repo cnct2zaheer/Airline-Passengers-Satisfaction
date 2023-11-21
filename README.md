@@ -1,1 +1,2 @@
 # Airline-Passengers-Satisfaction
+Led a comprehensive data analysis project aimed at understanding and enhancing airline passengers' satisfaction. Utilized Python for data manipulation, analysis, and visualization to extract valuable insights from diverse datasets. Examined factors influencing satisfaction, identified trends, and recommended actionable strategies to improve the overall passenger experience
